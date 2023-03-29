@@ -18,7 +18,7 @@ namespace tarea2jsjs
 
                 string selection;
 
-                Console.WriteLine("Introduce un número (●'◡'●): ");
+                Console.WriteLine("Introduce un número :D: ");
                 Console.WriteLine("1. Triángulo");
                 Console.WriteLine("2. Círculo");
                 Console.WriteLine("3. Rectángulo");
@@ -30,43 +30,43 @@ namespace tarea2jsjs
                     case "1":
                         float triangleB;
                         float triangleH;
-                        Console.WriteLine("Introduce la base del triángulo: ");
+                        Console.WriteLine("cuanto de base le queres dar al triangulo: ");
                         triangleB = float.Parse(Console.ReadLine());
-                        Console.WriteLine("Introduce la altura del triángulo: ");
+                        Console.WriteLine("que altura le queres dar al triangulo: ");
                         triangleH = float.Parse(Console.ReadLine());
-                        shape = new Triangle(triangleB, triangleH);
+                        shape = new treslados(triangleB, triangleH);
                         break;
                     case "2":
                         float radius;
-                        Console.WriteLine("Introduce el radio: ");
+                        Console.WriteLine("cuanto de radio le queres dar pa?: ");
                         radius = float.Parse(Console.ReadLine());
                         shape = new Circulo(radius);
                         break;
                     case "3":
                         float rectangleB;
                         float rectangleH;
-                        Console.WriteLine("Introduce la base del rectángulo: ");
+                        Console.WriteLine("cuanto de base le queres dar al rectangulo: ");
                         rectangleB = float.Parse(Console.ReadLine());
-                        Console.WriteLine("Introduce la altura del rectángulo: ");
+                        Console.WriteLine("que altura le queres dar al rectangulo: ");
                         rectangleH = float.Parse(Console.ReadLine());
                         shape = new Rectangulo(rectangleB, rectangleH);
                         break;
                     case "4":
                         float side;
-                        Console.WriteLine("Introduce el lado: ");
+                        Console.WriteLine("cuanto de lado?: ");
                         side = float.Parse(Console.ReadLine());
-                        shape = new Square(side);
+                        shape = new cuadraduki(side);
                         break;
                     default:
-                        Console.WriteLine("Opción no válida");
+                        Console.WriteLine("no es valido pa :(");
                         break;
                 }
 
                 if (shape != null)
                 {
-                    Console.WriteLine($"El área es {shape.CalculateArea()}");
+                    Console.WriteLine($"su area es de {shape.CalculateArea()}");
                 }
-                Console.WriteLine("dale enter gª: ");
+                Console.WriteLine("coloca un si y luego enter pa: ");
                 string option = Console.ReadLine();
                 if (option != "si")
                 {

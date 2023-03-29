@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tarea2jsjs
 {
-    class Rectangulo
+    class Rectangulo : formita
     {
         private float b;
         private float h;

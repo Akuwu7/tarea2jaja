@@ -6,18 +6,19 @@ using System.Threading.Tasks;
 
 namespace tarea2jsjs
 {
-    class Circulo : formita
-    {
-        private float radius;
+    class cuadraduki : formita
 
-        public Circulo(float radius)
+    {
+        private float side;
+
+        public cuadraduki(float side)
         {
-            this.radius = radius;
+            this.side = side;
         }
 
         public override float CalculateArea()
         {
-            return radius * radius * 3.14f;
+            return side * side;
         }
     }
 }

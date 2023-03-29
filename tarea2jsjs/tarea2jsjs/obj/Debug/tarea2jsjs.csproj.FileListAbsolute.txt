@@ -1,0 +1,7 @@
+C:\Users\Luana\Desktop\tarea2jaja\tarea2jsjs\tarea2jsjs\bin\Debug\tarea2jsjs.exe.config
+C:\Users\Luana\Desktop\tarea2jaja\tarea2jsjs\tarea2jsjs\bin\Debug\tarea2jsjs.exe
+C:\Users\Luana\Desktop\tarea2jaja\tarea2jsjs\tarea2jsjs\bin\Debug\tarea2jsjs.pdb
+C:\Users\Luana\Desktop\tarea2jaja\tarea2jsjs\tarea2jsjs\obj\Debug\tarea2jsjs.csproj.AssemblyReference.cache
+C:\Users\Luana\Desktop\tarea2jaja\tarea2jsjs\tarea2jsjs\obj\Debug\tarea2jsjs.csproj.CoreCompileInputs.cache
+C:\Users\Luana\Desktop\tarea2jaja\tarea2jsjs\tarea2jsjs\obj\Debug\tarea2jsjs.exe
+C:\Users\Luana\Desktop\tarea2jaja\tarea2jsjs\tarea2jsjs\obj\Debug\tarea2jsjs.pdb

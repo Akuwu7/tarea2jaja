@@ -6,18 +6,20 @@ using System.Threading.Tasks;
 
 namespace tarea2jsjs
 {
-    class Circulo : formita
+    class treslados : formita
     {
-        private float radius;
+        private float b;
+        private float h;
 
-        public Circulo(float radius)
+        public treslados(float b, float h)
         {
-            this.radius = radius;
+            this.b = b;
+            this.h = h;
         }
 
         public override float CalculateArea()
         {
-            return radius * radius * 3.14f;
+            return b * h / 2;
         }
     }
 }
