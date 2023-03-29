@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea2jsjs", "tarea2jsjs\tarea2jsjs.csproj", "{A9C7A4B1-5994-45A8-80DE-2DEDD622694A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C7A4B1-5994-45A8-80DE-2DEDD622694A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C7A4B1-5994-45A8-80DE-2DEDD622694A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C7A4B1-5994-45A8-80DE-2DEDD622694A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C7A4B1-5994-45A8-80DE-2DEDD622694A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32404DD6-F582-471F-9418-EB22D704D7DA}
+	EndGlobalSection
+EndGlobal
